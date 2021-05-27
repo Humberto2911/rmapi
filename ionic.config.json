@@ -1,0 +1,7 @@
+{
+  "name": "rmapi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
